@@ -1,13 +1,27 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
 .logo{
     height: 60px;
 }
 .btn1{
     border: none;
     border-radius: 4px;
-    background-image: linear-gradient(to right, skyblue, cyan);
+    background-image: linear-gradient(to right, rgb(87, 105, 112), rgb(161, 212, 212));
 }
 .card-footer{
     border: none;
     background-color: white;
     
+}
+#subscribe{
+    background-color: rgba(112, 75, 182, 0.199);
+}
+footer{
+    text-align: center;
+}
+.bg{
+    background-color:rgba(107, 101, 101, 0.384);
 }
