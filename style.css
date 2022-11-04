@@ -25,3 +25,7 @@ footer{
 .bg{
     background-color:rgba(107, 101, 101, 0.384);
 }
+
+.flex{
+    flex-direction: row-reverse;
+}
